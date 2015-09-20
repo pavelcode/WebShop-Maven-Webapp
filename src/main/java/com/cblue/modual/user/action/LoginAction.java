@@ -17,7 +17,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 public class LoginAction extends ActionSupport {
 	
-	private String name ;  /*²ÎÊý´«µÝ*/
+	private String name ; 
 	
 	
 	@Action(value = "mylogin")   
